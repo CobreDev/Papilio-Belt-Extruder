@@ -6,6 +6,8 @@ I remixed the included adapter for LGX Lite, and made versions for both XOL and 
 
 I have not tested this with Papilio non-lite, but I don't see why it wouldn't work
 
+If you print one of these, please [post a make on Printables!](https://www.printables.com/model/1156151-a4t-papilio-extruder-adapter/comments)
+
 <img src="./Images/a4t-assembled.png" width="80%"/>
 
 There are versions for both XOL and CW2/Tap carriages, and each has a variant with or without the Voron logo
